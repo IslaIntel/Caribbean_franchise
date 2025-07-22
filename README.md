@@ -236,7 +236,7 @@ No environment variables required - fully static deployment ready.
 
 ## Contributing
 
-This is a corporate website for Caribbean Franchise, Inc. For feature requests or issues, please contact the development team.
+This is a corporate website for Caribbean Franchise, Inc. For feature requests or issues, please IslaIntel's development team.
 
 ---
 
