@@ -1,0 +1,91 @@
+{
+  "company": {
+    "name": "Caribbean Franchise, Inc.",
+    "founded": "2007",
+    "headquarters": {
+      "city": "San Juan",
+      "territory": "Puerto Rico",
+      "addresses": [
+        {
+          "type": "registered",
+          "line1": "Paseo Las Cumbres, Ave Felisa Rincón de Gautier",
+          "suite": "Suite 208 & 209",
+          "city": "San Juan",
+          "zip": "00926"
+        },
+        {
+          "type": "office",
+          "line1": "Calle Alda",
+          "suite": "Suite 301, Urb. Caribe",
+          "city": "San Juan",
+          "zip": "00926"
+        }
+      ]
+    },
+    "industry": "Operador de Franquicias de Restaurantes",
+    "employeeCount": {
+      "min": 201,
+      "max": 500
+    },
+    "description": "Caribbean Franchise, Inc. es un operador puertorriqueño de franquicias con más de 20 restaurantes de comida rápida exitosos por toda la isla. La compañía ofrece apoyo completo para franquicias, incluyendo operaciones, recursos humanos, mercadeo y servicios de entrenamiento.",
+    "status": "Empresa Privada"
+  },
+  "brands": [
+    {
+      "name": "Subway",
+      "type": "Franquicia",
+      "category": "Sandwiches",
+      "url": null
+    },
+    {
+      "name": "Açai Express",
+      "type": "Franquicia", 
+      "category": "Bowls de Açai",
+      "url": null
+    },
+    {
+      "name": "Red Mango",
+      "type": "Franquicia",
+      "category": "Smoothies y Yogurt Helado",
+      "url": null
+    },
+    {
+      "name": "Fueguito / Burritos",
+      "type": "Franquicia",
+      "category": "Comida Mexicana",
+      "url": null
+    }
+  ],
+  "services": [
+    "Operaciones de Franquicia",
+    "Servicios Contables y Financieros", 
+    "Administración de Restaurantes",
+    "Recursos Humanos",
+    "Entrenamiento y Desarrollo",
+    "Mercadeo y Promociones",
+    "Selección de Ubicaciones y Estrategia de Expansión"
+  ],
+  "strengths": [
+    "Experiencia operacional en múltiples marcas",
+    "Equipos de apoyo interno integrales",
+    "Sólido conocimiento del mercado regional",
+    "Red de franquicias establecida en Puerto Rico"
+  ],
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/caribbean-franchise-inc",
+    "facebook": "https://www.facebook.com/caribbeanfranchisepr/",
+    "instagram": "https://www.instagram.com/caribbeanfranchise/",
+    "email": "jobs@fastllc.pr"
+  },
+  "seo": {
+    "title": "Caribbean Franchise, Inc. | Operador de Restaurantes Líder en Puerto Rico",
+    "description": "Caribbean Franchise, Inc. opera más de 20 restaurantes de comida rápida exitosos en Puerto Rico, incluyendo Subway, Açai Express y Red Mango. Descubre cómo manejamos franquicias de clase mundial con experiencia local.",
+    "keywords": [
+      "Caribbean Franchise",
+      "Operador de Franquicias Puerto Rico",
+      "Subway Puerto Rico", 
+      "Restaurantes Comida Rápida Puerto Rico",
+      "Franquicia multi-unidades restaurantes"
+    ]
+  }
+} 
